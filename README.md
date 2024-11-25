@@ -5,7 +5,7 @@ To use it...Load the extension in Chrome:
 
 Create a new folder with three files: 
 manifest.json 
-background.js 
+background2.js 
 content.js 
 Your icon files (icon48.png and icon128.png)
 
