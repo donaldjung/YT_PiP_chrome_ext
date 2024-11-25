@@ -5,18 +5,18 @@ Allows popout video for better use of screen real-estate.<br>
 
 To use it...Load the extension in Chrome:<br>
 
-Create a new folder with three files: <br>
+1. Create a new folder with three files: <br>
 manifest.json <br>
 background2.js <br>
 content.js <br>
 Your icon files (icon48.png and icon128.png)<br>
 
-Go to chrome://extensions/ <br>
+2. Go to chrome://extensions/ <br>
 Enable "Developer mode" (top right) <br>
 Click "Load unpacked" <br>
 Select your extension directory<br>
 
-To use click extention in the google chrome toolbar of the webpage containing a Video.<br>
+3. To use click extention in the google chrome toolbar of the webpage containing a Video.<br>
 Or use the dedicated PiP button on a youtube video's controls.<br>
 
 Features: <br>
