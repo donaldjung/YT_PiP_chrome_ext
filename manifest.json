@@ -1,0 +1,22 @@
+// manifest.json
+{
+  "manifest_version": 3,
+  "name": "Video PiP Enabler2",
+  "version": "1.0",
+  "description": "Enables Picture-in-Picture mode for video elements",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "Enable PiP"
+  },
+  "background": {
+    "service_worker": "background2.js"
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"]
+  }],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
