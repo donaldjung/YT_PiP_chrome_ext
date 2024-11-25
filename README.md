@@ -1,5 +1,5 @@
 # YT_PiP_chrome_ext
-Google chrome extension allowing picture in picture (video popout) for any video.
+Google chrome extension allowing picture in picture (video popout) for any video, but added dedicated button for youtube videos. <br>
 Use case:<br>
 Allows popout video for better use of screen real-estate.<br>
 
